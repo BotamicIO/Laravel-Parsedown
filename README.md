@@ -69,7 +69,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/DraperStudio/laravel-parsedown.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/DraperStudio/laravel-parsedown/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/DraperStudio/Laravel-Parsedown/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/DraperStudio/laravel-parsedown.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/DraperStudio/laravel-parsedown.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/DraperStudio/laravel-parsedown.svg?style=flat-square
