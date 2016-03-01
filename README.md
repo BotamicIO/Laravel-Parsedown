@@ -75,7 +75,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-downloads]: https://img.shields.io/packagist/dt/DraperStudio/laravel-parsedown.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/DraperStudio/laravel-parsedown
-[link-travis]: https://travis-ci.org/DraperStudio/laravel-parsedown
+[link-travis]: https://travis-ci.org/DraperStudio/Laravel-Parsedown
 [link-scrutinizer]: https://scrutinizer-ci.com/g/DraperStudio/laravel-parsedown/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/DraperStudio/laravel-parsedown
 [link-downloads]: https://packagist.org/packages/DraperStudio/laravel-parsedown
